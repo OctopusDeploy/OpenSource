@@ -12,11 +12,32 @@
   From the <a href="https://argoproj.github.io/">Argo Project</a> to the tools that power <a href="https://octopus.com">Octopus Deploy</a>, find them all here.
 </p>
 
+<p align="center">
+  <a href="https://insights.linuxfoundation.org/project/argo/contributors"><b>🥇 #1 contributing organization to the Argo Project</b></a><br>
+  <sub>6,715 contributions in the past 12 months (16% of all activity), ahead of Intuit, Pipekit, Akuity and Red Hat. Source: LFX Insights.</sub>
+</p>
+
+<p align="center">
+  <a href="https://insights.linuxfoundation.org/project/argo/contributors"><img src="assets/argo-contributors.svg" alt="Pie chart of Argo Project contributions by organization: Octopus Deploy 16%, Intuit 16%, Pipekit 14%, Akuity 12%, Red Hat 7%" width="640"></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>#1</b><br><sub>contributing org to Argo<br>(LFX Insights, past 12 months)</sub></td>
+    <td align="center"><b>28,000+</b><br><sub>GitHub stars across<br>Argo CD, Rollouts & plugins</sub></td>
+    <td align="center"><b>2,500+</b><br><sub>contributors to<br>Argo CD & Argo Rollouts</sub></td>
+    <td align="center"><b>14,000+</b><br><sub>commits in<br>Argo CD & Argo Rollouts</sub></td>
+    <td align="center"><b>100+</b><br><sub>public repos in the<br>Octopus Deploy org</sub></td>
+  </tr>
+</table>
+<p align="center"><sub>Snapshot as of October 2026. Counts come from the GitHub API and LFX Insights and are not auto-updated.</sub></p>
+<p align="center"><a href="https://insights.linuxfoundation.org/project/argo/"><b>📊 See live Argo Project contribution stats on LFX Insights →</b></a></p>
+
 ---
 
 ## <img src="assets/argo-icon.svg" height="28" align="center"> Argo Project & GitOps
 
-Octopus Deploy engineers maintain core parts of the [Argo Project](https://argoproj.github.io/) (a CNCF graduated project) and help steer the GitOps standards behind it.
+Octopus Deploy is the top contributing organization to the [Argo Project](https://argoproj.github.io/) (a CNCF graduated project, valued by LFX at $188M of software), and our engineers maintain core parts of it and help steer the GitOps standards behind it. See the [LFX Insights dashboard](https://insights.linuxfoundation.org/project/argo/) for live contribution, contributor, and community-health metrics across the whole project.
 
 | | Project | What it does |
 |---|---|---|
