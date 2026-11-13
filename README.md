@@ -107,7 +107,7 @@ The engine room of Octopus Deploy, open for anyone to use or learn from.
 | **[Ocl](https://github.com/OctopusDeploy/Ocl)** | HCL serialization for .NET. |
 | **[Shellfish](https://github.com/OctopusDeploy/Shellfish)** | Command-line invocation helpers for .NET. |
 | **[CommandLine](https://github.com/OctopusDeploy/CommandLine)** | The command-line parsing library used across Octopus apps. |
-| **OpenFeature providers** | [.NET](https://github.com/OctopusDeploy/openfeature-provider-dotnet), [Java](https://github.com/OctopusDeploy/openfeature-provider-java), [TypeScript](https://github.com/OctopusDeploy/openfeature-provider-ts-web). |
+| **OpenFeature providers** | [.NET](https://github.com/OctopusDeploy/openfeature-provider-dotnet), [Java](https://github.com/OctopusDeploy/openfeature-provider-java), [TypeScript](https://github.com/OctopusDeploy/openfeature-provider-ts). |
 
 ---
 
