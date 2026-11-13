@@ -45,8 +45,8 @@ Octopus Deploy is the top contributing organization to the [Argo Project](https:
 | <img src="assets/argo-rollouts.png" width="56"> | **[Argo Rollouts](https://github.com/argoproj/argo-rollouts)** | Progressive delivery for Kubernetes: canary, blue-green, and experiments with automated analysis and rollback. |
 | <img src="assets/argo-icon.svg" width="56"> | **[Argo CD Monorepo Controller](https://github.com/argoproj-labs/argocd-monorepo-controller)** | Keeps Argo CD fast and accurate in monorepos by only refreshing applications when the files that matter change. |
 | <img src="assets/argo-icon.svg" width="56"> | **[Gateway API plugin for Argo Rollouts](https://github.com/argoproj-labs/rollouts-plugin-trafficrouter-gatewayapi)** | Traffic routing for Argo Rollouts using the Kubernetes Gateway API, so progressive delivery works with any compatible provider. [Docs](https://rollouts-plugin-trafficrouter-gatewayapi.readthedocs.io/) |
-| <img src="assets/octopus-mark.svg" width="56"> | **[Argo CD Cost Intelligence](https://github.com/OctopusDeploy/argocd-cost-intelligence)** 🚧 *coming soon* | Shows the actual cost of your Argo CD applications, sourced from OpenCost, right inside the Argo CD UI. |
-| <img src="assets/octopus-mark.svg" width="56"> | **[OctoDoctor for Argo CD](https://github.com/OctopusDeploy/octodoctor-argocd)** 🚧 *coming soon* | Scans Argo CD clusters and manifests for bad practices and common issues. |
+| <img src="assets/octopus-mark.svg" width="56"> | **[Cost Intelligence for ArgoCD](https://github.com/OctopusDeploy/cost-intelligence-argocd)** | Shows the actual cost of your Argo CD applications, sourced from OpenCost, right inside the Argo CD UI. |
+| <img src="assets/octopus-mark.svg" width="56"> | **[OctoDoctor for Argo CD](https://github.com/OctopusDeploy/octodoctor-argocd)** | Scans Argo CD clusters and manifests for bad practices and common issues. |
 | 🌐 | **[OpenGitOps](https://github.com/open-gitops/documents)** | The vendor-neutral GitOps Principles and Glossary from the CNCF OpenGitOps project. [opengitops.dev](https://opengitops.dev/) |
 
 ## Octopus CLI, APIs & Infrastructure as Code
